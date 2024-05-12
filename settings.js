@@ -26,9 +26,9 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD12' //script link
 global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["916909137213"] // Premium User
+global.creator = "2347045174399@s.whatsapp.net"
+global.xprefix = '/'
+global.premium = ["2347045174399"] // Premium User
 global.hituet = 0
 
 //bot sett
